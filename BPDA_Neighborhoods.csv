@@ -1,0 +1,182 @@
+GEOID10,NAME10,NAMELSAD10,2014 BPDA Neighborhood
+25025990101,9901.01,Census Tract 9901.01,(water)
+25025000703,7.03,Census Tract 7.03,Allston
+25025000704,7.04,Census Tract 7.04,Allston
+25025000802,8.02,Census Tract 8.02,Allston
+25025000803,8.03,Census Tract 8.03,Allston
+25025010600,106,Census Tract 106,Back Bay
+25025010701,107.01,Census Tract 107.01,Back Bay
+25025010702,107.02,Census Tract 107.02,Back Bay
+25025010801,108.01,Census Tract 108.01,Back Bay
+25025010802,108.02,Census Tract 108.02,Back Bay
+25025981501,9815.01,Census Tract 9815.01,Back Bay
+25025010500,105,Census Tract 105,Back Bay
+25025020101,201.01,Census Tract 201.01,Beacon Hill
+25025020200,202,Census Tract 202,Beacon Hill
+25025020302,203.02,Census Tract 203.02,Beacon Hill
+25025981700,9817,Census Tract 9817,Beacon Hill
+25025000100,1,Census Tract 1,Brighton
+25025000201,2.01,Census Tract 2.01,Brighton
+25025000202,2.02,Census Tract 2.02,Brighton
+25025000301,3.01,Census Tract 3.01,Brighton
+25025000302,3.02,Census Tract 3.02,Brighton
+25025000401,4.01,Census Tract 4.01,Brighton
+25025000402,4.02,Census Tract 4.02,Brighton
+25025000502,5.02,Census Tract 5.02,Brighton
+25025000503,5.03,Census Tract 5.03,Brighton
+25025000504,5.04,Census Tract 5.04,Brighton
+25025000601,6.01,Census Tract 6.01,Brighton
+25025000602,6.02,Census Tract 6.02,Brighton
+25025000701,7.01,Census Tract 7.01,Brighton
+25025040100,401,Census Tract 401,Charlestown
+25025040200,402,Census Tract 402,Charlestown
+25025040300,403,Census Tract 403,Charlestown
+25025040401,404.01,Census Tract 404.01,Charlestown
+25025040600,406,Census Tract 406,Charlestown
+25025040801,408.01,Census Tract 408.01,Charlestown
+25025100100,1001,Census Tract 1001,Dorchester
+25025100200,1002,Census Tract 1002,Dorchester
+25025100300,1003,Census Tract 1003,Dorchester
+25025090700,907,Census Tract 907,Dorchester
+25025090901,909.01,Census Tract 909.01,Dorchester
+25025091001,910.01,Census Tract 910.01,Dorchester
+25025091100,911,Census Tract 911,Dorchester
+25025091200,912,Census Tract 912,Dorchester
+25025091300,913,Census Tract 913,Dorchester
+25025091400,914,Census Tract 914,Dorchester
+25025091500,915,Census Tract 915,Dorchester
+25025090100,901,Census Tract 901,Dorchester
+25025090200,902,Census Tract 902,Dorchester
+25025090300,903,Census Tract 903,Dorchester
+25025092400,924,Census Tract 924,Dorchester
+25025100400,1004,Census Tract 1004,Dorchester
+25025100500,1005,Census Tract 1005,Dorchester
+25025100601,1006.01,Census Tract 1006.01,Dorchester
+25025100603,1006.03,Census Tract 1006.03,Dorchester
+25025100700,1007,Census Tract 1007,Dorchester
+25025100800,1008,Census Tract 1008,Dorchester
+25025091600,916,Census Tract 916,Dorchester
+25025091700,917,Census Tract 917,Dorchester
+25025091800,918,Census Tract 918,Dorchester
+25025091900,919,Census Tract 919,Dorchester
+25025092000,920,Census Tract 920,Dorchester
+25025092101,921.01,Census Tract 921.01,Dorchester
+25025092200,922,Census Tract 922,Dorchester
+25025092300,923,Census Tract 923,Dorchester
+25025030300,303,Census Tract 303,Downtown/Chinatown/Leather
+25025070101,701.01,Census Tract 701.01,Downtown/Chinatown/Leather
+25025070200,702,Census Tract 702,Downtown/Chinatown/Leather
+25025050101,501.01,Census Tract 501.01,East Boston
+25025050200,502,Census Tract 502,East Boston
+25025050300,503,Census Tract 503,East Boston
+25025050400,504,Census Tract 504,East Boston
+25025050500,505,Census Tract 505,East Boston
+25025050600,506,Census Tract 506,East Boston
+25025050700,507,Census Tract 507,East Boston
+25025050901,509.01,Census Tract 509.01,East Boston
+25025051000,510,Census Tract 510,East Boston
+25025051101,511.01,Census Tract 511.01,East Boston
+25025051200,512,Census Tract 512,East Boston
+25025981300,9813,Census Tract 9813,East Boston
+25025981502,9815.02,Census Tract 9815.02,East Boston
+25025981600,9816,Census Tract 9816,East Boston
+25025010103,101.03,Census Tract 101.03,Fenway
+25025010104,101.04,Census Tract 101.04,Fenway
+25025010203,102.03,Census Tract 102.03,Fenway
+25025010204,102.04,Census Tract 102.04,Fenway
+25025010403,104.03,Census Tract 104.03,Fenway
+25025010404,104.04,Census Tract 104.04,Fenway
+25025010405,104.05,Census Tract 104.05,Fenway
+25025010408,104.08,Census Tract 104.08,Fenway
+25025980101,9801.01,Census Tract 9801.01,Harbor Islands
+25025140102,1401.02,Census Tract 1401.02,Hyde Park
+25025140105,1401.05,Census Tract 1401.05,Hyde Park
+25025140107,1401.07,Census Tract 1401.07,Hyde Park
+25025140201,1402.01,Census Tract 1402.01,Hyde Park
+25025140202,1402.02,Census Tract 1402.02,Hyde Park
+25025140300,1403,Census Tract 1403,Hyde Park
+25025140400,1404,Census Tract 1404,Hyde Park
+25025980700,9807,Census Tract 9807,Hyde Park
+25025120103,1201.03,Census Tract 1201.03,Jamaica Plain
+25025120104,1201.04,Census Tract 1201.04,Jamaica Plain
+25025120105,1201.05,Census Tract 1201.05,Jamaica Plain
+25025120201,1202.01,Census Tract 1202.01,Jamaica Plain
+25025120400,1204,Census Tract 1204,Jamaica Plain
+25025120500,1205,Census Tract 1205,Jamaica Plain
+25025120600,1206,Census Tract 1206,Jamaica Plain
+25025120700,1207,Census Tract 1207,Jamaica Plain
+25025081200,812,Census Tract 812,Jamaica Plain
+25025981000,9810,Census Tract 9810,Jamaica Plain
+25025981800,9818,Census Tract 9818,Jamaica Plain
+25025110103,1101.03,Census Tract 1101.03,Jamaica Plain
+25025120301,1203.01,Census Tract 1203.01,Jamaica Plain
+25025010300,103,Census Tract 103,Longwood Medical Area
+25025100900,1009,Census Tract 1009,Mattapan
+25025101001,1010.01,Census Tract 1010.01,Mattapan
+25025101002,1010.02,Census Tract 1010.02,Mattapan
+25025101101,1011.01,Census Tract 1011.01,Mattapan
+25025101102,1011.02,Census Tract 1011.02,Mattapan
+25025981100,9811,Census Tract 9811,Mattapan
+25025080801,808.01,Census Tract 808.01,Mission Hill
+25025080900,809,Census Tract 809,Mission Hill
+25025081001,810.01,Census Tract 810.01,Mission Hill
+25025081100,811,Census Tract 811,Mission Hill
+25025030100,301,Census Tract 301,North End
+25025030200,302,Census Tract 302,North End
+25025030400,304,Census Tract 304,North End
+25025030500,305,Census Tract 305,North End
+25025110201,1102.01,Census Tract 1102.01,Roslindale
+25025110301,1103.01,Census Tract 1103.01,Roslindale
+25025110401,1104.01,Census Tract 1104.01,Roslindale
+25025110403,1104.03,Census Tract 1104.03,Roslindale
+25025110501,1105.01,Census Tract 1105.01,Roslindale
+25025110502,1105.02,Census Tract 1105.02,Roslindale
+25025110607,1106.07,Census Tract 1106.07,Roslindale
+25025140106,1401.06,Census Tract 1401.06,Roslindale
+25025080100,801,Census Tract 801,Roxbury
+25025080300,803,Census Tract 803,Roxbury
+25025080401,804.01,Census Tract 804.01,Roxbury
+25025080601,806.01,Census Tract 806.01,Roxbury
+25025081300,813,Census Tract 813,Roxbury
+25025081400,814,Census Tract 814,Roxbury
+25025081500,815,Census Tract 815,Roxbury
+25025081700,817,Census Tract 817,Roxbury
+25025081800,818,Census Tract 818,Roxbury
+25025081900,819,Census Tract 819,Roxbury
+25025082000,820,Census Tract 820,Roxbury
+25025082100,821,Census Tract 821,Roxbury
+25025090400,904,Census Tract 904,Roxbury
+25025090600,906,Census Tract 906,Roxbury
+25025980300,9803,Census Tract 9803,Roxbury
+25025080500,805,Census Tract 805,Roxbury
+25025060101,601.01,Census Tract 601.01,South Boston
+25025060200,602,Census Tract 602,South Boston
+25025060301,603.01,Census Tract 603.01,South Boston
+25025060400,604,Census Tract 604,South Boston
+25025060501,605.01,Census Tract 605.01,South Boston
+25025060700,607,Census Tract 607,South Boston
+25025060800,608,Census Tract 608,South Boston
+25025061000,610,Census Tract 610,South Boston
+25025061101,611.01,Census Tract 611.01,South Boston
+25025061200,612,Census Tract 612,South Boston
+25025981201,9812.01,Census Tract 9812.01,South Boston
+25025060600,606,Census Tract 606,South Boston Waterfront
+25025981202,9812.02,Census Tract 9812.02,South Boston Waterfront
+25025070300,703,Census Tract 703,South End
+25025070402,704.02,Census Tract 704.02,South End
+25025070500,705,Census Tract 705,South End
+25025070600,706,Census Tract 706,South End
+25025070700,707,Census Tract 707,South End
+25025070800,708,Census Tract 708,South End
+25025070900,709,Census Tract 709,South End
+25025071101,711.01,Census Tract 711.01,South End
+25025071201,712.01,Census Tract 712.01,South End
+25025020301,203.01,Census Tract 203.01,West End
+25025020303,203.03,Census Tract 203.03,West End
+25025110601,1106.01,Census Tract 1106.01,West Roxbury
+25025130100,1301,Census Tract 1301,West Roxbury
+25025130200,1302,Census Tract 1302,West Roxbury
+25025130300,1303,Census Tract 1303,West Roxbury
+25025130402,1304.02,Census Tract 1304.02,West Roxbury
+25025130404,1304.04,Census Tract 1304.04,West Roxbury
+25025130406,1304.06,Census Tract 1304.06,West Roxbury
