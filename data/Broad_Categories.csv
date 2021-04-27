@@ -1,0 +1,87 @@
+Category,Broad Category,Type
+African Restaurant,African,African
+Ethiopian Restaurant,African,Ethiopian
+American Restaurant,American,American
+BBQ Joint,American,BBQ Joint
+Burger Joint,American,Burger Joint
+Cajun / Creole Restaurant,American,Cajun / Creole
+Comfort Food Restaurant,American,Comfort Food
+Diner,American,Diner
+Fried Chicken Joint,American,Fried Chicken Joint
+Gastropub,American,Gastropub
+Hot Dog Joint,American,Hot Dog Joint
+New American Restaurant,American,New American
+Southern / Soul Food Restaurant,American,Southern / Soul Food
+Steakhouse,American,Steakhouse
+Wings Joint,American,Wings Joint
+Cantonese Restaurant,Asian (East),Cantonese
+Chinese Restaurant,Asian (East),Chinese
+Dim Sum Restaurant,Asian (East),Dim Sum
+Dumpling Restaurant,Asian (East),Dumpling
+Hotpot Restaurant,Asian (East),Hotpot
+Japanese Restaurant,Asian (East),Japanese
+Korean Restaurant,Asian (East),Korean
+Noodle House,Asian (East),Noodle House
+Ramen Restaurant,Asian (East),Ramen
+Sushi Restaurant,Asian (East),Sushi
+Szechuan Restaurant,Asian (East),Szechuan
+Udon Restaurant,Asian (East),Udon
+Asian Restaurant,Asian (General),Asian
+Indian Restaurant,Indian,Indian
+Burmese Restaurant,Asian (Southeast),Burmese
+Cambodian Restaurant,Asian (Southeast),Cambodian
+Thai Restaurant,Asian (Southeast),Thai
+Vietnamese Restaurant,Asian (Southeast),Vietnamese
+Afghan Restaurant,Asian (West),Afghan
+Falafel Restaurant,Asian (West),Falafel
+Halal Restaurant,Asian (West),Halal
+Israeli Restaurant,Asian (West),Israeli
+Middle Eastern Restaurant,Asian (West),Middle Eastern
+Turkish Restaurant,Asian (West),Turkish
+Bagel Shop,Baked Goods,Bagel Shop
+Bakery,Baked Goods,Bakery
+Donut Shop,Baked Goods,Donut Shop
+Caribbean Restaurant,Caribbean,Caribbean
+Cuban Restaurant,Caribbean,Cuban
+Belgian Restaurant,European,Belgian
+Eastern European Restaurant,European,Eastern European
+Fish & Chips Shop,European,Fish & Chips Shop
+French Restaurant,European,French
+Irish Pub,European,Irish Pub
+Polish Restaurant,European,Polish
+Fast Food Restaurant,Fast Food,Fast Food
+Bistro,General,Bistro
+Buffet,General,Buffet
+Café,General,Café
+Cafeteria,General,Cafeteria
+Deli / Bodega,General,Deli / Bodega
+Food,General,Food
+Food Court,General,Food Court
+Food Truck,General,Food Truck
+Restaurant,General,Restaurant
+Snack Place,General,Snack Place
+Italian Restaurant,Italian,Italian
+Arepa Restaurant,Latin American,Arepa
+Brazilian Restaurant,Latin American,Brazilian
+Burrito Place,Latin American,Burrito Place
+Colombian Restaurant,Latin American,Colombian
+Empanada Restaurant,Latin American,Empanada
+Latin American Restaurant,Latin American,Latin American
+Mexican Restaurant,Latin American,Mexican
+Peruvian Restaurant,Latin American,Peruvian
+South American Restaurant,Latin American,South American
+Taco Place,Latin American,Taco Place
+Greek Restaurant,Mediterranean,Greek
+Mediterranean Restaurant,Mediterranean,Mediterranean
+Moroccan Restaurant,Mediterranean,Moroccan
+Paella Restaurant,Mediterranean,Paella
+Portuguese Restaurant,Mediterranean,Portuguese
+Spanish Restaurant,Mediterranean,Spanish
+Tapas Restaurant,Mediterranean,Tapas
+Pizza Place,Pizza,Pizza Place
+Sandwich Place,Sandwich,Sandwich Place
+Seafood Restaurant,Seafood,Seafood
+Australian Restaurant,Specialty,Australian
+Breakfast Spot,Specialty,Breakfast Spot
+Salad Place,Specialty,Salad Place
+Vegetarian / Vegan Restaurant,Specialty,Vegetarian / Vegan
