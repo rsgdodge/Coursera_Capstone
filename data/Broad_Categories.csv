@@ -8,7 +8,6 @@ Cajun / Creole Restaurant,American,Cajun / Creole
 Comfort Food Restaurant,American,Comfort Food
 Diner,American,Diner
 Fried Chicken Joint,American,Fried Chicken Joint
-Gastropub,American,Gastropub
 Hot Dog Joint,American,Hot Dog Joint
 New American Restaurant,American,New American
 Southern / Soul Food Restaurant,American,Southern / Soul Food
@@ -27,9 +26,9 @@ Sushi Restaurant,Asian (East),Sushi
 Szechuan Restaurant,Asian (East),Szechuan
 Udon Restaurant,Asian (East),Udon
 Asian Restaurant,Asian (General),Asian
-Indian Restaurant,Indian,Indian
 Burmese Restaurant,Asian (Southeast),Burmese
 Cambodian Restaurant,Asian (Southeast),Cambodian
+Malay Restaurant,Asian (Southeast),Malay
 Thai Restaurant,Asian (Southeast),Thai
 Vietnamese Restaurant,Asian (Southeast),Vietnamese
 Afghan Restaurant,Asian (West),Afghan
@@ -40,26 +39,28 @@ Middle Eastern Restaurant,Asian (West),Middle Eastern
 Turkish Restaurant,Asian (West),Turkish
 Bagel Shop,Baked Goods,Bagel Shop
 Bakery,Baked Goods,Bakery
+Creperie,Baked Goods,Creperie
 Donut Shop,Baked Goods,Donut Shop
 Caribbean Restaurant,Caribbean,Caribbean
 Cuban Restaurant,Caribbean,Cuban
+Deli / Bodega,Deli,Deli / Bodega
 Belgian Restaurant,European,Belgian
 Eastern European Restaurant,European,Eastern European
-Fish & Chips Shop,European,Fish & Chips Shop
 French Restaurant,European,French
-Irish Pub,European,Irish Pub
 Polish Restaurant,European,Polish
+Russian Restaurant,European,Russian
 Fast Food Restaurant,Fast Food,Fast Food
 Bistro,General,Bistro
 Buffet,General,Buffet
 Café,General,Café
 Cafeteria,General,Cafeteria
-Deli / Bodega,General,Deli / Bodega
 Food,General,Food
 Food Court,General,Food Court
 Food Truck,General,Food Truck
 Restaurant,General,Restaurant
 Snack Place,General,Snack Place
+Indian Restaurant,Indian,Indian
+North Indian Restaurant,Indian,North Indian
 Italian Restaurant,Italian,Italian
 Arepa Restaurant,Latin American,Arepa
 Brazilian Restaurant,Latin American,Brazilian
@@ -79,15 +80,14 @@ Portuguese Restaurant,Mediterranean,Portuguese
 Spanish Restaurant,Mediterranean,Spanish
 Tapas Restaurant,Mediterranean,Tapas
 Pizza Place,Pizza,Pizza Place
+Fish & Chips Shop,Pub Fare,Fish & Chips Shop
+Gastropub,Pub Fare,Gastropub
+Irish Pub,Pub Fare,Irish Pub
 Sandwich Place,Sandwich,Sandwich Place
 Seafood Restaurant,Seafood,Seafood
 Australian Restaurant,Specialty,Australian
 Breakfast Spot,Specialty,Breakfast Spot
-Salad Place,Specialty,Salad Place
-Vegetarian / Vegan Restaurant,Specialty,Vegetarian / Vegan
-Malay Restaurant,Asian (Southeast),Malay
-Creperie,Baked Goods,Creperie
 Mac & Cheese Joint,Specialty,Mac & Cheese Joint
-Russian Restaurant,European,Russian
-North Indian Restaurant,Indian,North Indian
+Salad Place,Specialty,Salad Place
 Soup Place,Specialty,Soup Place
+Vegetarian / Vegan Restaurant,Specialty,Vegetarian / Vegan
